@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![1792923479498](image/README/1792923479498.jpg)
+<img src="image/README/1792923479498.jpg" alt="1792923479498" width="400" > <img src="image/README/1793206136293.jpg" alt="1793206136293" width="400" >
+
 
 <!--
 **shivam-kumar25/shivam-kumar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
